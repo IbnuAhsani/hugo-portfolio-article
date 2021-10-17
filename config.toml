@@ -6,7 +6,7 @@ theme = "hello-friend"
 [params]
 # dir name of your blog content (default is `content/posts`).
 # the list of set content will show up on your index page (baseurl).
-contentTypeName = "posts"
+contentTypeName = "projects"
 
 # "light" or "dark"
 defaultTheme = "light"
@@ -44,7 +44,7 @@ writtenBy = "Written by"
 # lastModDisplay = ""
 
 [languages.en.params.logo]
-logoHomeLink = "/"
+logoHomeLink = "/projects"
 logoText = "hello friend"
 # or
 #
