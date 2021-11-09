@@ -1,6 +1,6 @@
 ---
 title: "Project Three : Web Portfolio"
-date: "2021-07-11"
+date: "2021-07-12"
 author: "ssentinull"
 tags: ["web-app", "hugo", "golang"]
 description: "A web-based portfolio to showcase a developer's skill, built using Hugo and Golang."
