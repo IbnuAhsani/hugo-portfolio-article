@@ -2,3 +2,6 @@
 	path = themes/hello-friend
 	url = https://github.com/ssentinull/hugo-theme-hello-friend.git
     branch = portfolio
+[submodule "public"]
+	path = public
+	url = git@github.com:IbnuAhsani/ibnuahsani.github.io.git
